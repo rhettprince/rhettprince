@@ -1,5 +1,7 @@
-readme.md 
+this is my test repo
 
-repo rhettprince /rhettprince 
-kill this repo 
+I need to clean up my repos 
+it is private 
+I will try to delete it now 
+
 
